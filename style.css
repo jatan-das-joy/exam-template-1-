@@ -181,14 +181,18 @@ box-sizing: border-box;
 
 /* heder menu */
 
-/* .heder-sicky-section {
+.heder-sicky-section {
 	background: #fff;
 	height: 100px;
 	position: sticky;
 	top: 0;
 	width: 100%;
 	z-index: 999;
-} */
+}
+
+
+
+
 
 .heder-sicky-menu{
 

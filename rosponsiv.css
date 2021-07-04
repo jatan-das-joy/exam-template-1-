@@ -327,9 +327,7 @@ body{
         background: url(./img/ia_400000067.jpg) no-repeat center center;
         background-size: cover;
     }
-
-
-
+  
 }
 /*      850   */
 @media all and ( max-width: 850px ) {
@@ -415,7 +413,14 @@ body{
         box-sizing: border-box;
         padding-left: 20px;
     }
-
+    .heder-sicky-section {
+        background: #fff;
+        height: 100px;
+        position: static;
+        top: 0;
+        width: 100%;
+        z-index: 0;
+    }
 
 
 
